@@ -1,0 +1,83 @@
+body {
+    width: 1600px;
+
+}
+
+
+.back__img__left  {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 230px;
+
+}
+
+.back__img__right {
+    position: absolute;
+    margin-left: 815px;
+    margin-top: 100px;
+
+
+}
+.img__left__text-top {
+    position: absolute;
+    font-size: 16px;
+    color: #F4F9FC;
+    margin: 175px 0px 0px 265px;
+}
+
+.img__left__text-middle {
+    position: absolute;
+    width: 280px;
+    height: 81px ;
+    font-size: 31px;
+    color: #F4F9FC;
+    margin: 207px 0px 0px 265px;
+}
+
+.img__left__text-down {
+    position: absolute;
+    width: 249px;
+    height:81px ;
+    font-size: 14px;
+    color: #F4F9FC;
+    margin: 295px 0px 0px 265px;
+}
+
+.helicopter__one {
+    width: 275px;
+    height: 231px;
+    position: absolute;
+    margin: 75px 0px 0px 464px ;
+}
+
+.img__right__text-top {
+    position: absolute;
+    font-size: 16px;
+    color: #F4F9FC;
+    margin: 175px 0px 0px 850px;
+}
+
+.img__right__text-middle {
+    position: absolute;
+    width: 280px;
+    height: 81px ;
+    font-size: 31px;
+    color: #F4F9FC;
+    margin: 207px 0px 0px 850px;
+}
+
+.img__right__text-down {
+    position: absolute;
+    width: 249px;
+    height:81px ;
+    font-size: 14px;
+    color: #F4F9FC;
+    margin: 295px 0px 0px 850px;
+}
+
+.camera {
+    width: 238.12px;
+    height: 151.26px;   
+    position: absolute;
+    margin: 130px 0px 0px 1075px ;
+}
